@@ -5,6 +5,7 @@
 # Session Data files
 .RData
 .RDataTmp
+.vscode/
 
 # User-specific files
 .Ruserdata
@@ -47,3 +48,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Not ready to committ
+data/External_Data/hg38/NMD_KD-dPSI_hg38.bed
+data/External_Data/hg38/NMD_KD-dPSI_hg38.bed:Zone.Identifier
+data/External_Data/hg38/curated_nmd_cons (1).tsv
+data/External_Data/hg38/curated_nmd_cons (1).tsv:Zone.Identifier
+data/External_Data/hg38/validated_nmd_cons (1).tsv
+data/External_Data/hg38/validated_nmd_cons (1).tsv:Zone.Identifier
+data/External_Data/hg38/nmd_exons (1).bed
+data/External_Data/hg38/nmd_exons (1).bed:Zone.Identifier
