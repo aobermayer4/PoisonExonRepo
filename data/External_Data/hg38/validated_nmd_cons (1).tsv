@@ -1,0 +1,36 @@
+Gene	Exon	hg38_coord	Type	Source
+SRSF3	4	chr6:36599821-36600276	PTC-Bearing	Jumaa et al., 1997
+SRSF2	3	chr17:76735772-76735875	3' UTR Activation	Sureau et al., 2001
+TIA1	7	chr2:70225328-70225393	PTC-Bearing	Le Guiner et al., 2001
+TIA1	6	chr2:70228344-70228462	Frameshift Stop	Le Guiner et al., 2001
+TIAL1	6	chr10:119580471-119580846	PTC-Bearing	Le Guiner et al., 2001
+PTBP1	11	chr19:807869-807902	Exon-Skipping Frameshift	Wollerton et al., 2004
+TRA2B	2	chr3:185931577-185931852	PTC-Bearing	Stoilov et al., 2004
+RPL3	4	chr22:39316706-39317021	PTC-Bearing	Cuccurese et al., 2005
+PTBP2	10	chr1:96806419-96806452	Exon-Skipping Frameshift	Spellman et al., 2007
+SNRPB	3	chr20:2467192-2467315	PTC-Bearing	Saltzman et al., 2008
+SMNDC1	3	chr10:110300547-110300736	Frameshift Stop	Saltzman et al., 2008
+HNRNPL	7	chr19:38841613-38841682	PTC-Bearing	Rossbach et al., 2009
+HNRNPLL	6	chr2:38577920-38578002	PTC-Bearing	Rossbach et al., 2009
+CELF2	6	chr10:11266598-11266677	Exon-Skipping Frameshift	Dembowski et al., 2009
+SRSF1	-	chr17:58004923-58005041	3' UTR Activation	Sun et al., 2010
+HNRNPA2B1	-	chr7:26190993-26191128	3' UTR Activation	McGlincy et al., 2010
+TARDBP	-	chr1:11024064-11024335	3' UTR Activation	Ayala et al., 2011
+RBFOX2	-	chr22:35752613-35752655	PTC-Bearing	Dredge & Jensen, 2011
+TRA2A	2	chr7:23522132-23522432	PTC-Bearing	Grellscheid et al., 2011
+SRSF7	4	chr2:38748898-38749173	PTC-Bearing	Änkö et al., 2012
+DLG4	18	chr17:7191893-7192002	Exon-Skipping Frameshift	Zheng et al., 2012
+FUS	7	chr16:31186802-31186836	Exon-Skipping Frameshift	Zhou et al., 2013
+PABPN1	7	chr14:23324138-23326163	PTC-Bearing	Bergeron et al., 2015
+CHTOP	2	chr1:153636572-153638448	PTC-Bearing	Izumikawa et al., 2016
+ARGLU1	-	chr13:106557559-106557616	Frameshift Stop	Pirnie et al., 2016
+RBM10	6	chrX:47175019-47175092	Exon-Skipping Frameshift	Sun et al., 2017
+RBM5	6	chr3:50100532-50100605	Exon-Skipping Frameshift	Sun et al., 2017
+HNRNPDL	8	chr9:82425563-82425667	3' UTR Activation	Kemmerer et al., 2018
+MBNL1	1	chr3:152299405-152300367	Alternative Start	Koneiczny et al., 2018
+SRSF10	2	chr1:23978653-23978817	PTC-Bearing	Meinke et al., 2020
+SRSF10	3	chr1:23977911-23978273	3' UTR Activation	Meinke et al., 2020
+BAK1	5	chr6:33574506-33574525	Frameshift Stop	Lin et al., 2020
+TRIM46	8	chr1:155178809-155178846	Frameshift Stop	Vuong et al., 2022
+SRSF6	3	chr20:43459153-43459420	PTC-Bearing	de Oliveira Freitas Machado et al., 2023
+RBM39	3	chr20:35740525-35740597	PTC-Bearing	Campagne et al., submitted
